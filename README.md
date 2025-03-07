@@ -52,4 +52,5 @@ A Password Strength Checker is a tool that helps users assess the security of th
 
 Would you like a code implementation of this tool? Let me know! 😊💻
 
+![Screenshot 2025-03-07 160600](https://github.com/user-attachments/assets/952ed2da-20e1-4c10-bfea-a5edb7ec99af)
 
